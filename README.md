@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://https://www.linkedin.com/in/red-dragon-596598212/" target="_blank">Abzal</a> 
+<h1 align="center">Hi there, I'm <a href="https:///www.linkedin.com/in/red-dragon-596598212/" target="_blank">Abzal</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center">I am a frontend web developer from Kazakhstan!</h2>
 
