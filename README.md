@@ -1,13 +1,13 @@
-## Hello, I am Abzal
--
-### I am a frontend web developer!
--
-I like 
-- Sport: Boxing
-- Traveling: World
-- Classical Music: Classica
+<h1 align="center">Hi there, I'm <a href="https://https://www.linkedin.com/in/red-dragon-596598212/" target="_blank">Abzal</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h2 align="center">I am a frontend web developer from Kazakhstan!</h2>
 
-and coding :Computer:
+<h3 align="left" width="26px">I like </h3>
+ <h4>Sport</h4> 
+ <h4>Traveling</h4> 
+ <h4>Classical Music</h4> 
+ 
+And coding 
 - 
 ---
 -
